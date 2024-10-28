@@ -102,7 +102,27 @@ body::before {
 }
 
 @media (max-width: 640px) {
-  .links {
-    background-color: pink;
+  .content h1 {
+    font-size: 2rem;
+  }
+
+  .countdown {
+    margin-top: 30px;
+  }
+
+  .countdown div {
+    width: 80px;
+    border-radius: 10px;
+    height: 150px;
+    margin-right: 2rem;
+  }
+
+  .countdown div p {
+    font-size: 3rem;
+  }
+
+  .countdown div h6 {
+    width: 80px;
+    font-size: 1rem;
   }
 }
