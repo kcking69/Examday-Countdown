@@ -114,7 +114,7 @@ body::before {
     width: 80px;
     border-radius: 10px;
     height: 150px;
-    margin-right: 2rem;
+    margin-right: 1.5rem;
   }
 
   .countdown div p {
